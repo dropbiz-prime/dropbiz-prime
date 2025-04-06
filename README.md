@@ -50,7 +50,7 @@
   <section id="about" class="py-16">
     <div class="max-w-3xl mx-auto text-center">
       <h3 class="text-3xl font-bold mb-4">Wer wir sind</h3>
-      <p>Wir sind ein junges Team mit Fokus auf smarte Logistik, starken Lieferketten und Support für Dropshipping-Stores weltweit. Mit uns verkaufst du ohne Stress.</p>
+      <p>Wir sind ein junges Team mit Fokus auf smarte Logistik, starke Lieferketten und Support für Dropshipping-Stores weltweit. Mit uns verkaufst du ohne Stress.</p>
     </div>
   </section>
 
@@ -59,14 +59,13 @@
     <div class="max-w-2xl mx-auto text-center">
       <h3 class="text-3xl font-bold mb-4">Kontaktiere uns</h3>
       <p class="mb-4">Hast du Fragen oder möchtest du mit uns starten?</p>
-      <a href="mailto:kontakt@dropbiz.de" class="bg-white text-indigo-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-200 transition">E-Mail schreiben</a>
+      <a href="mailto:tarekereni@icloud.com" class="bg-white text-indigo-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-200 transition">E-Mail schreiben</a>
     </div>
   </section>
 
   <!-- Footer -->
   <footer class="bg-gray-100 text-center py-6 text-sm">
-    &copy; 2025 DropBiz – Alle Rechte vorbehalten.
+    &copy; 2025 DropBiz – Kontakt: <a href="mailto:tarekereni@icloud.com" class="text-indigo-600 hover:underline">tarekereni@icloud.com</a>
   </footer>
 </body>
 </html>
-
